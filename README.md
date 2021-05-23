@@ -1,1 +1,1 @@
-Q and A
+Basic Knowledge about IT
