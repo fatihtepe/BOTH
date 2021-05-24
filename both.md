@@ -25,3 +25,9 @@ Bash is largely compatible with sh and incorporates useful features from the Kor
 
 While the GNU operating system provides other shells, including a version of csh, Bash is the default shell. Like other GNU software, Bash is quite portable. It currently runs on nearly every version of Unix and a few other operating systems - independently-supported ports exist for MS-DOS, OS/2, and Windows platforms.
 source: https://www.gnu.org/software/bash/manual/html_node/What-is-Bash_003f.html
+
+3. Yellow Dog Updater, Modified (YUM)
+
+YUM is the primary package management tool for installing, updating, removing, and managing software packages in Red Hat Enterprise Linux. YUM performs dependency resolution when installing, updating, and removing software packages. YUM can manage packages from installed repositories in the system or from .rpm packages. The main configuration file for YUM is at /etc/yum.conf, and all the repos are at /etc/yum.repos.d.
+
+
