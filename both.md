@@ -28,6 +28,6 @@ source: https://www.gnu.org/software/bash/manual/html_node/What-is-Bash_003f.htm
 
 3. Yellow Dog Updater, Modified (YUM)
 
-YUM is the primary package management tool for installing, updating, removing, and managing software packages in Red Hat Enterprise Linux. YUM performs dependency resolution when installing, updating, and removing software packages. YUM can manage packages from installed repositories in the system or from .rpm packages. The main configuration file for YUM is at /etc/yum.conf, and all the repos are at /etc/yum.repos.d.
+YUM is the primary package management tool for installing, updating, removing, and managing software packages in Red Hat Enterprise Linux. YUM performs dependency resolution when installing, updating, and removing software packages. YUM can manage packages from installed repositories in the system or from .rpm packages. The main configuration file for YUM is at /etc/yum.conf, and all the repos are at /etc/yum.repos.d. source: https://www.redhat.com/sysadmin/how-manage-packages#:~:text=YUM%20is%20the%20primary%20package,in%20the%20system%20or%20from%20.
 
 
